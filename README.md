@@ -47,6 +47,11 @@ python3 build.py report.md index.html fa
 python3 build.py report-en.md en.html en
 ```
 
+## استفادهٔ عملی در Claude و ChatGPT
+
+اگر می‌خواهید همین دانش را داخل مدل‌ها استفاده کنید، بستهٔ اسکیل آماده است:
+[ai-audio-models-skill](https://github.com/SaeedSheikhAmiri/ai-audio-models-skill) — شامل `SKILL.md` برای Claude، دستورالعمل و فایل‌های دانش برای Custom GPT.
+
 ## هشدار
 
 قیمت‌ها و نسخه‌ها در این حوزه ماهانه تغییر می‌کنند. اعداد این گزارش تقریبی‌اند و پیش از بودجه‌بندی باید از صفحهٔ رسمی قیمت هر سرویس تأیید شوند. این فهرست «نمایندهٔ کامل بازیگران مهم» است، نه فهرست حداکثری همهٔ مدل‌ها.
